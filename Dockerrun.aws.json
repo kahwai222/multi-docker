@@ -24,7 +24,7 @@
     },
     {
       "name": "nginx",
-      "image": "limk0078/multi-nginx",,
+      "image": "limk0078/multi-nginx",
       "hostname": "nginx",
       "essential": true,
       "portMappings": [
